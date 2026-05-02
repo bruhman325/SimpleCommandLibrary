@@ -1,5 +1,5 @@
 # SimpleCommandLibrary (SCL)
-Simple Command Library is a library that aids in making simple command line tools.
+A library that aids in making simple command line programs
 
 ## Installation
 To use this library simply clone this repo and put in somewhere in your project then link it to your project using cmake
